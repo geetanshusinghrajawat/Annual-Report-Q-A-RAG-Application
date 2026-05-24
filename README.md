@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) application that lets you upload any company's annual report and ask natural language questions about it. Built with LangChain, FAISS, Groq (Llama 3), and Streamlit.
 
-🔴 **[Live Demo](.)**
+🔴 **[Live Demo](https://annual-report-rag-chatbot-by-geetanshu.streamlit.app/)**
 
 ---
 
